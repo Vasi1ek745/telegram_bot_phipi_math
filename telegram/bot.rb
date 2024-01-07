@@ -9,7 +9,7 @@ require_relative './modules/statistics'
 
 class Main
   
-    token = '6718457521:AAFVJqjop1Z4-sMlBmyakNOOOBhemLFDwdg'
+    token = Rails.application.credentials.bot_token
 
     Telegram::Bot::Client.run(token) do |bot|
       bot.listen do |message|
