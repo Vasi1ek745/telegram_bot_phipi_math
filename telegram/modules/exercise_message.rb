@@ -6,11 +6,11 @@ class Main
 			list = u.exercise_list
 			e = Exercise.find_by(id: list.split(";")[number])
 			if e
-  	            bot.api.send_sticker(chat_id:CheckMessage.chat_id(message),
+  	            bot.api.send_sticker(chat_id:UserChange.chat_id(message),
                      sticker: e.sticker_id
                      )
 			else
-				bot.api.send_message(chat_id:CheckMessage.chat_id(message),
+				bot.api.send_message(chat_id:UserChange.chat_id(message),
 										text: "Видимо все задания кончились!Вы все решили"
 					)
 			end

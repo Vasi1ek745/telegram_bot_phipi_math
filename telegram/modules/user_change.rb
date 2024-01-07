@@ -2,7 +2,7 @@
 
 
 class Main
-	module CheckMessage
+	module UserChange
 		def check_user_exist_in_db?(message)
 			User.find_by(user_id: message.from.id)
 		end
