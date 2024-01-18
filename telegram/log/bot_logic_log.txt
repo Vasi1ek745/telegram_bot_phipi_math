@@ -1,0 +1,4 @@
+
+ ****************************** 
+ 01/12/24  15:37 
+ undefined local variable or method `sticker_ids' for Main::SendMessage:Module

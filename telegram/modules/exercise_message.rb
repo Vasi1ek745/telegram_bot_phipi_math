@@ -6,13 +6,11 @@ class Main
 			list = u.exercise_list
 			e = Exercise.find_by(id: list.split(";")[number])
 			if e
-  	            bot.api.send_sticker(chat_id:UserChange.chat_id(message),
-                     sticker: e.sticker_id
-                     )
-			else
-				bot.api.send_message(chat_id:UserChange.chat_id(message),
-										text: "Видимо все задания кончились!Вы все решили"
-					)
+				SendMessage.send_sticker(bot,message, e.sticker_id)
+         	else
+         		text = "Видимо все задания кончились!Вы все решили"
+				SendMessage.send_message(bot,message, text)
+
 			end
 
 		end
@@ -34,6 +32,7 @@ class Main
 			u.update(exercise_number_in_list: exercise_number_in_list_up)
 
 		end
+
 		module_function(
 			:sticker,
 			:right_answer,
