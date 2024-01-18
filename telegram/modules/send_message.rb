@@ -17,14 +17,14 @@ class Main
                                     )
 
 		end
-		def send_sticker(bot, message, sticker_id)
-			bot.api.send_sticker(chat_id:UserChange.chat_id(message),
-                     sticker: sticker_id
+		def send_photo(bot, message, photo_id)
+			bot.api.send_photo(chat_id:UserChange.chat_id(message),
+                     photo: photo_id
                      )
 		end
 		module_function(
 			:send_message,
-			:send_sticker,
+			:send_photo,
 			:edit_message
 			)
 	end

@@ -31,7 +31,7 @@ class Main
                 ExerciseMessage.exercise_list(message)
                 text = "Подготовили для вас список заданий!\nПросто отправьте правильный ответ!\nДля перехода к следующему заданию отправьте команду /next"
                 SendMessage.send_message(bot,message,text)
-                ExerciseMessage.sticker(message,bot)
+                ExerciseMessage.photo(message,bot)
                 UserChange.status_change_up(message)  
                                      
 # Статус 3 Режим ответа на задания, проверяем ответ на правильность и в зависимости от этого посылаем сообщение
@@ -42,7 +42,7 @@ class Main
                   text = "Это правильный ответ! 😉" 
                   SendMessage.send_message(bot,message,text)
                   ExerciseMessage.exercise_number_in_list_up(message)
-                  ExerciseMessage.sticker(message,bot)
+                  ExerciseMessage.photo(message,bot)
 
                 else   
                   text = "Это не правильный ответ! 😢\nПопробуй еще" 

@@ -10,14 +10,14 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.1].define(version: 2024_01_05_194950) do
+ActiveRecord::Schema[7.1].define(version: 2024_01_18_093550) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
   create_table "exercises", force: :cascade do |t|
     t.string "phipi_id"
     t.integer "number_in_ege"
-    t.string "sticker_id"
+    t.string "file_id"
     t.decimal "right_answer"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false

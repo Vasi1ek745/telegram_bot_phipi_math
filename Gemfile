@@ -67,3 +67,5 @@ gem "pg", "~> 1.5"
 gem "pry-byebug", "~> 3.10"
 
 gem "byebug", "~> 11.1"
+
+gem "faraday", "~> 2.8"

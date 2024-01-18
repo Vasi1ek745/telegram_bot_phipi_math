@@ -1,12 +1,12 @@
 class Main
 	module ExerciseMessage
-		def sticker(message, bot)
+		def photo(message, bot)
 			u = User.find_by(user_id: message.from.id)
 			number = u.exercise_number_in_list
 			list = u.exercise_list
 			e = Exercise.find_by(id: list.split(";")[number])
 			if e
-				SendMessage.send_sticker(bot,message, e.sticker_id)
+				SendMessage.send_photo(bot,message, e.photo_id)
          	else
          		text = "Видимо все задания кончились!Вы все решили"
 				SendMessage.send_message(bot,message, text)
@@ -34,7 +34,7 @@ class Main
 		end
 
 		module_function(
-			:sticker,
+			:photo,
 			:right_answer,
 			:exercise_number_in_list_up,
 			:exercise_list
