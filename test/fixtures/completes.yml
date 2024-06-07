@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  number_in_ege: 1
+  exercise_id: 1
+  user: one
+
+two:
+  number_in_ege: 1
+  exercise_id: 1
+  user: two

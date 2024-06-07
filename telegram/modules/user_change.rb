@@ -3,6 +3,11 @@
 
 class Main
 	module UserChange
+		def check_last_time_message_late?(message)
+			u = User.find_by(user_id: message.from.id)
+			Time.now.to_f - u.updated_at.to_f > 7200 
+
+		end
 		def check_user_exist_in_db?(message)
 			User.find_by(user_id: message.from.id)
 		end
@@ -18,25 +23,25 @@ class Main
 			u.update(tasks_order: message.data)
 		end
 		
-		def create_user_in_db(message)
-
-			  User.create(
-			  			user_id: message.from.id,
-	                    first_name: message.from.first_name, 
-	                    user_name: message.from.username,
-	                    first_message_time: Time.now,
-	                    status: 0,
-	                    chat_id: message.chat.id
-	                    )
-
-		end
 		def status_change_up(message)
 			u = User.find_by(user_id: message.from.id)
-			u.update(status: u.status + 1)
+			if u.status < 5
+				u.update(status: u.status + 1)
+			else  
+				u.update(status: 0)
+			end
 		end
 		def status_zero(message)
 			u = User.find_by(user_id: message.from.id)
 			u.update(status: 0)
+		end
+		def status_one(message)
+			u = User.find_by(user_id: message.from.id)
+			u.update(status: 1)
+		end
+		def status_five(message)
+			u = User.find_by(user_id: message.from.id)
+			u.update(status: 5)
 		end
 		def chat_id(message)
 			User.find_by(user_id: message.from.id).chat_id
@@ -48,14 +53,16 @@ class Main
 
 		module_function(
 		:check_user_exist_in_db?,
-		:create_user_in_db,
 		:status,
 		:status_change_up,
 		:status_zero,
+		:status_five,
+		:status_one,
 		:chat_id,
 		:them_choose,
 		:solved_task,
-		:tasks_order
+		:tasks_order,
+		:check_last_time_message_late?
 		)
 
 

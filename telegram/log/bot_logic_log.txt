@@ -1,4 +1,418 @@
 
  ****************************** 
- 01/12/24  15:37 
- undefined local variable or method `sticker_ids' for Main::SendMessage:Module
+ 04/24/24  20:07 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 04/24/24  20:07 
+ could not obtain a connection from the pool within 5.000 seconds (waited 5.000 seconds); all pooled connections were in use
+ ****************************** 
+ 04/24/24  20:07 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 04/24/24  20:08 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 04/24/24  20:08 
+ could not obtain a connection from the pool within 5.000 seconds (waited 5.000 seconds); all pooled connections were in use
+ ****************************** 
+ 04/24/24  20:08 
+ could not obtain a connection from the pool within 5.000 seconds (waited 5.000 seconds); all pooled connections were in use
+ ****************************** 
+ 04/24/24  20:08 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 04/24/24  20:08 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 04/24/24  20:08 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 04/24/24  20:09 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 04/24/24  20:09 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 04/25/24  10:27 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 04/25/24  11:10 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 04/25/24  11:10 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 04/25/24  11:10 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 04/26/24  10:37 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 04/26/24  21:44 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 04/26/24  21:44 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 04/26/24  21:44 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 04/26/24  22:42 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 04/26/24  22:43 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 04/26/24  22:43 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 04/26/24  22:43 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 04/28/24  08:36 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 04/28/24  08:37 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 04/28/24  08:37 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 04/28/24  23:59 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 04/28/24  23:59 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 04/29/24  11:01 
+ undefined method `status' for nil:NilClass
+ ****************************** 
+ 04/29/24  19:41 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 04/29/24  19:41 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 04/30/24  08:49 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/01/24  22:00 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/01/24  22:22 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/01/24  22:22 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/01/24  22:22 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/02/24  11:12 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/02/24  11:13 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/02/24  11:13 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/02/24  16:33 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/02/24  18:47 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/02/24  19:09 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/02/24  21:54 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/03/24  19:27 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/03/24  19:27 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/03/24  23:38 
+ could not obtain a connection from the pool within 5.000 seconds (waited 5.001 seconds); all pooled connections were in use
+ ****************************** 
+ 05/03/24  23:38 
+ could not obtain a connection from the pool within 5.000 seconds (waited 5.000 seconds); all pooled connections were in use
+ ****************************** 
+ 05/03/24  23:38 
+ could not obtain a connection from the pool within 5.000 seconds (waited 5.000 seconds); all pooled connections were in use
+ ****************************** 
+ 05/03/24  23:38 
+ could not obtain a connection from the pool within 5.000 seconds (waited 5.000 seconds); all pooled connections were in use
+ ****************************** 
+ 05/03/24  23:38 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/03/24  23:38 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/03/24  23:38 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/03/24  23:38 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/03/24  23:38 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/04/24  00:47 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/04/24  02:00 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/04/24  02:01 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/04/24  02:01 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/04/24  02:01 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/04/24  11:58 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/04/24  11:58 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/04/24  11:58 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/06/24  19:57 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/06/24  19:57 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/06/24  19:57 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/06/24  19:57 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/06/24  19:57 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/07/24  09:35 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/07/24  09:35 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/07/24  09:36 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/07/24  09:36 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/07/24  09:36 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/07/24  09:36 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/08/24  17:29 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/08/24  17:55 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/08/24  19:38 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/08/24  19:39 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/08/24  22:17 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/08/24  22:17 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/08/24  22:53 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/08/24  23:00 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/08/24  23:00 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/08/24  23:00 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/08/24  23:13 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/08/24  23:13 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/08/24  23:30 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/09/24  11:20 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/09/24  11:21 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/09/24  16:51 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/09/24  16:52 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/10/24  19:03 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/10/24  19:15 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/12/24  08:41 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/12/24  08:41 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/14/24  14:13 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/15/24  15:47 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/15/24  15:47 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/15/24  15:47 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/15/24  15:47 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/15/24  15:47 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/16/24  16:36 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/16/24  16:50 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/16/24  16:50 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/16/24  16:50 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/17/24  17:22 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/18/24  10:30 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/18/24  10:30 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/18/24  10:30 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/18/24  11:08 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/18/24  11:30 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/18/24  11:30 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/18/24  11:30 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/19/24  08:37 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/21/24  09:01 
+ undefined method `status' for nil:NilClass
+ ****************************** 
+ 05/21/24  09:01 
+ Telegram API has returned the error. (ok: "false", error_code: "403", description: "Forbidden: bot was blocked by the user")
+ ****************************** 
+ 05/21/24  22:37 
+ undefined method `status' for nil:NilClass
+ ****************************** 
+ 05/21/24  22:38 
+ Telegram API has returned the error. (ok: "false", error_code: "403", description: "Forbidden: bot was blocked by the user")
+ ****************************** 
+ 05/21/24  22:43 
+ undefined method `status' for nil:NilClass
+ ****************************** 
+ 05/21/24  22:43 
+ Telegram API has returned the error. (ok: "false", error_code: "403", description: "Forbidden: bot was blocked by the user")
+ ****************************** 
+ 05/22/24  21:10 
+ undefined method `status' for nil:NilClass
+ ****************************** 
+ 05/26/24  08:39 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/26/24  22:44 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/26/24  23:02 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/29/24  20:18 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/29/24  20:57 
+ Telegram API has returned the error. (ok: "false", error_code: "403", description: "Forbidden: bot was blocked by the user")
+ ****************************** 
+ 05/29/24  22:09 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/29/24  22:11 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/29/24  22:11 
+ undefined method `split' for nil:NilClass
+ ****************************** 
+ 05/29/24  22:11 
+ undefined method `split' for nil:NilClass
+ ****************************** 
+ 05/29/24  22:29 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/29/24  22:29 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/30/24  08:32 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/30/24  08:32 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 05/30/24  18:44 
+ undefined method `status' for nil:NilClass
+ ****************************** 
+ 05/30/24  18:44 
+ Telegram API has returned the error. (ok: "false", error_code: "403", description: "Forbidden: bot was blocked by the user")
+ ****************************** 
+ 05/30/24  20:37 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 06/02/24  10:43 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 06/02/24  10:43 
+ Net::ReadTimeout with #<TCPSocket:(closed)>
+ ****************************** 
+ 06/05/24  12:05 
+ undefined method `status' for nil:NilClass

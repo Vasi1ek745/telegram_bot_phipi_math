@@ -17,10 +17,11 @@ class Main
                                     )
 
 		end
-		def send_photo(bot, message, photo_id)
-			bot.api.send_photo(chat_id:UserChange.chat_id(message),
-                     photo: photo_id
+		def send_photo(bot, message, file_id)
+				bot.api.send_photo(chat_id:UserChange.chat_id(message),
+                     photo: file_id
                      )
+
 		end
 		module_function(
 			:send_message,

@@ -10,21 +10,30 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.1].define(version: 2024_01_18_093550) do
+ActiveRecord::Schema[7.1].define(version: 2024_04_07_173056) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "completes", force: :cascade do |t|
+    t.integer "number_in_ege"
+    t.integer "exercise_id"
+    t.bigint "user_id", null: false
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["user_id"], name: "index_completes_on_user_id"
+  end
 
   create_table "exercises", force: :cascade do |t|
     t.string "phipi_id"
     t.integer "number_in_ege"
     t.string "file_id"
-    t.decimal "right_answer"
+    t.text "right_answer"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
 
   create_table "users", force: :cascade do |t|
-    t.integer "user_id"
+    t.bigint "user_id"
     t.string "first_name"
     t.string "user_name"
     t.datetime "first_message_time", precision: nil
@@ -33,7 +42,7 @@ ActiveRecord::Schema[7.1].define(version: 2024_01_18_093550) do
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.integer "status"
-    t.integer "chat_id"
+    t.bigint "chat_id"
     t.integer "them_choose"
     t.string "solved_task"
     t.string "tasks_order"
@@ -41,4 +50,5 @@ ActiveRecord::Schema[7.1].define(version: 2024_01_18_093550) do
     t.integer "exercise_number_in_list"
   end
 
+  add_foreign_key "completes", "users"
 end

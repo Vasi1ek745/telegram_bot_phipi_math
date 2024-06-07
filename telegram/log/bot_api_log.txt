@@ -1,0 +1,778 @@
+
+ ****************************** 
+ 04/17/24  03:13 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  03:13 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  03:13 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  03:13 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  03:13 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  03:13 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:04 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:05 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:05 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:05 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:05 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:05 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:05 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:05 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:05 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 04/17/24  23:05 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 05/05/24  04:02 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/05/24  04:02 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/05/24  04:02 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/05/24  04:02 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/05/24  04:02 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/05/24  04:02 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/05/24  04:02 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/05/24  04:02 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/05/24  04:02 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/05/24  04:02 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/05/24  04:02 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/05/24  04:02 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/05/24  04:02 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/05/24  04:02 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/05/24  04:02 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/05/24  04:02 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 05/05/24  04:02 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 05/05/24  04:02 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 05/05/24  04:02 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 05/27/24  04:07 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/27/24  04:07 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/27/24  04:07 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/27/24  04:07 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/27/24  04:07 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/27/24  04:07 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/27/24  04:07 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/27/24  04:07 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/27/24  04:07 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/27/24  04:07 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/27/24  04:07 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/27/24  04:07 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/27/24  04:07 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 05/27/24  04:07 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 05/27/24  04:07 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 05/27/24  04:07 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 05/27/24  04:56 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 05/27/24  04:56 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 05/27/24  04:56 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 05/28/24  03:06 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/28/24  03:06 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/28/24  03:06 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/28/24  03:06 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/28/24  03:06 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/28/24  03:06 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/28/24  03:06 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/28/24  03:06 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/28/24  03:06 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/28/24  03:06 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/28/24  03:06 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/28/24  03:06 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/28/24  03:06 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/28/24  03:06 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/28/24  03:06 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/28/24  03:06 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/28/24  03:06 
+ Telegram API has returned the error. (ok: "false", error_code: "429", description: "Too Many Requests: retry after 5", parameters: "{"retry_after"=>5}")
+ ****************************** 
+ 05/28/24  03:06 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 05/28/24  03:06 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 05/28/24  03:06 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 05/28/24  03:06 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")
+ ****************************** 
+ 05/28/24  03:06 
+ Telegram API has returned the error. (ok: "false", error_code: "502", description: "Bad Gateway")

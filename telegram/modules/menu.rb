@@ -1,16 +1,25 @@
 class Main
 	module Menu
 
-		def check_message(message)
+		def check_message(message, bot)
 						# binding.pry
             # проверяем какое сообщение пришло обычное или callback
             if message.class == Telegram::Bot::Types::CallbackQuery
               UserChange.status_change_up(message)
               
             else
-              UserChange.create_user_in_db(message) if !UserChange.check_user_exist_in_db?(message)
-              UserChange.status_zero(message) if message.text == "/start"
-              ExerciseMessage.exercise_number_in_list_up(message) if message.text == "/next"
+    		      if message.from.id == 431570366 && message.contact
+    		      		Autorization.create_user_in_db(message.contact)
+            	elsif Autorization.check_user_exist_in_db?(message)
+            			Autorization.update_data(message)
+		              UserChange.status_zero(message) if message.text == "/start" || UserChange.check_last_time_message_late?(message)
+		              UserChange.status_one(message) if message.text == "/menu"
+		              UserChange.status_five(message) if message.text == "/statistics"
+    		          ExerciseMessage.exercise_number_in_list_up(message) if message.text == "/skip"
+    		      else 
+    		      	Autorization.send_not_autorization_message(bot,message)
+    		      end
+
           	end
 		end
 

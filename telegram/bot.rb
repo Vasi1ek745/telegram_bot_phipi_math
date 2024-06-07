@@ -7,6 +7,8 @@ require_relative './modules/exercise_message'
 require_relative './modules/statistics'
 require_relative './modules/send_message'
 require_relative './modules/step'
+require_relative './modules/autorization'
+require_relative './modules/completes'
 
 def log(path, e)
     r = "*"*30
@@ -16,23 +18,23 @@ end
 
 loop do
   begin
-    class Main
-      token = Rails.application.credentials.bot_token
-      Telegram::Bot::Client.run(token) do |bot|
-        bot.listen do |message|
-          Thread.start(message) do |message|                  
-            begin
-              Step.steps(message, bot)
-            rescue Exception => e
-              # log file for bot_logic
-              log("./telegram/log/bot_logic_log.txt" , e)
-            end 
-          end
-        end
-      end 
-    end     
+        class Main
+          token = Rails.application.credentials.bot_token
+              Telegram::Bot::Client.run(token) do |bot|
+                  bot.listen do |message|
+                    Thread.start(message) do |message|                  
+                      begin
+                        Step.steps(message, bot)
+                      rescue Exception => e
+                        # log file for bot_logic
+                        log("./telegram/log/bot_logic_log.txt" , e)
+                      end
+                    end 
+                  end
+              end
+        end  
   rescue Exception => e
-     # log file for api error
-      log("./telegram/log/bot_api_log.txt" , e)
+   # log file for api error
+    log("./telegram/log/bot_api_log.txt" , e)
   end
 end
