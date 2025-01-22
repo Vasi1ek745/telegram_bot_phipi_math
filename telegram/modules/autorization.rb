@@ -1,7 +1,7 @@
 class Main
 	module Autorization
 		def check_user_exist_in_db?(message)
-			User.find_by(user_id: message.from.id)
+			User.find_by(user_id: message.from.id) || User.find_by(user_name: message.from.username)
 		end
 		def send_not_autorization_message(bot,message)
 			text = "Вы не добавлены в систему. Пожалуйста обратитесь к администратору!"
@@ -19,10 +19,14 @@ class Main
 
 		end
 		def update_data(message)
-			u = User.find_by(user_id: message.from.id)
-			u.update(user_name: message.from.username) if message.from.username
-			u.update(first_name: message.from.first_name) if message.from.first_name
-			u.update(chat_id: message.chat.id)
+			u = User.find_by(user_id: message.from.id) || User.find_by(user_name: message.from.username)
+			
+			u.update(user_name: message.from.username || "",
+					 first_name: message.from.first_name || "",
+					 chat_id: message.chat.id,
+					 user_id: message.from.id			
+					 )
+
 		end
 		module_function(
 			:check_user_exist_in_db?,
@@ -32,3 +36,5 @@ class Main
 			)
 	end
 end
+
+

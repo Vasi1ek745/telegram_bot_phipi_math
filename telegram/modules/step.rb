@@ -44,12 +44,13 @@ class Main
 # Статус 4 Режим ответа на задания, проверяем ответ на правильность и в зависимости от этого посылаем сообщение
               when 4
                 right_answer = ExerciseMessage.right_answer(message)  
-                
-                if message.text == right_answer
+                user_answer = message.text.gsub('.',',')
+                if user_answer == right_answer
 
                   text = "Это правильный ответ! 😉" 
                   SendMessage.send_message(bot,message,text)
-                  Completes.add_complete_exercise(message)
+
+                  Completes.add_complete_exercise(message) if  !Completes.allredy_add?(message)
                   ExerciseMessage.exercise_number_in_list_up(message)
                   ExerciseMessage.photo(message,bot)
 

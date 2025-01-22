@@ -1,3 +1,4 @@
 class User < ApplicationRecord
-	 has_many :completes
+	 has_many :completes,  dependent: :destroy
+	 
 end

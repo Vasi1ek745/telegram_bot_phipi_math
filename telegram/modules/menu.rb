@@ -12,7 +12,7 @@ class Main
     		      		Autorization.create_user_in_db(message.contact)
             	elsif Autorization.check_user_exist_in_db?(message)
             			Autorization.update_data(message)
-		              UserChange.status_zero(message) if message.text == "/start" || UserChange.check_last_time_message_late?(message)
+		              UserChange.status_zero(message) if message.text == "/start" 
 		              UserChange.status_one(message) if message.text == "/menu"
 		              UserChange.status_five(message) if message.text == "/statistics"
     		          ExerciseMessage.exercise_number_in_list_up(message) if message.text == "/skip"

@@ -17,14 +17,15 @@ class Main
 			u.completes.where("number_in_ege = ? " , number_in_ege).size
 		end
 		def main_statistics_for_each_them(message)
-			smile = ["🤬","🤦","🦍","🫠","🫣","🤔","😏","😌","🥰","💝","💯"]
+			smile = ["🤬","🤦","🫠","🫣","🦍","🤔","😏","😌","🥰","💝","💯"]
 			text = ""
 			choose_menu = ["1. Планиметрия", "2. Векторы","3. Стереометрия","4. Вероятность простая",
 			"5. Вероятность сложная","6. Уравнения","7. Найти значение выражения","8. Производная анализ",
 			"9. Задача с формулой","10. Текстовая Задача","11. График функции","12. Производная"]
 			choose_menu.each do |row|
+				them_number = row.split(".")[0]
 				all_exercise = all_exercise_in_them(row.split(".")[0])
-				completes_exercise_in_them = completes_exercise_in_them(message, row.split(".")[0])
+				completes_exercise_in_them = completes_exercise_in_them(message, them_number)
 				if all_exercise != 0
 					procent = (completes_exercise_in_them.to_f/all_exercise * 100).round(2) 
 				else
