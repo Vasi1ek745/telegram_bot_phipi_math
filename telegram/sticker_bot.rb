@@ -45,7 +45,7 @@
       #                   right_answer: file[2]
       #                   )
               
-      #         f = Faraday::UploadIO.new("/home/vasiliy/Изображения/"+file[3], "'image/png'")
+              # f = Faraday::UploadIO.new("/home/vasiliy/Изображения/"+file[3], "'image/png'")
 
       #         bot.api.send_photo(
       #                   chat_id: message.chat.id,

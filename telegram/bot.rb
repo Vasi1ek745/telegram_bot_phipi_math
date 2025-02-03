@@ -9,6 +9,7 @@ require_relative './modules/send_message'
 require_relative './modules/step'
 require_relative './modules/autorization'
 require_relative './modules/completes'
+require_relative './modules/pdf_create'
 
 def log(path, e)
     r = "*"*30

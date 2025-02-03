@@ -24,8 +24,9 @@ class Main
 			u.update(user_name: message.from.username || "",
 					 first_name: message.from.first_name || "",
 					 chat_id: message.chat.id,
-					 user_id: message.from.id			
-					 )
+					 user_id: message.from.id,
+					 status: u.status || 0 
+				 )
 
 		end
 		module_function(

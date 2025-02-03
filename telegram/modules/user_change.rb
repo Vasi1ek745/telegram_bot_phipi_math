@@ -5,7 +5,7 @@ class Main
 	module UserChange
 		def check_last_time_message_late?(message)
 			u = User.find_by(user_id: message.from.id)
-			Time.now.to_f - u.updated_at.to_f > 7200 
+			Time.now - (u.last_message_time || Time.now) > 1800
 
 		end
 		def check_user_exist_in_db?(message)
@@ -15,7 +15,9 @@ class Main
 			u = User.find_by(user_id: message.from.id)
 			u.update(them_choose: message.data, exercise_number_in_list: 0)
 		end
-		def solved_task(message)
+		def last_message_time_update(message)
+			u = User.find_by(user_id: message.from.id)
+			u.update(last_message_time: Time.now)
 		end
 
 		def tasks_order(message)
@@ -48,7 +50,8 @@ class Main
 			
 		end
 		def status(message)
-			User.find_by(user_id: message.from.id).status
+			User.find_by(user_id: message.from.id).status || 0
+
 		end
 
 		module_function(
@@ -60,9 +63,9 @@ class Main
 		:status_one,
 		:chat_id,
 		:them_choose,
-		:solved_task,
 		:tasks_order,
-		:check_last_time_message_late?
+		:check_last_time_message_late?,
+		:last_message_time_update
 		)
 
 

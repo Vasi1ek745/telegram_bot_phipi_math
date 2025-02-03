@@ -23,10 +23,17 @@ class Main
                      )
 
 		end
+		def send_document(bot,message)
+				doc = Faraday::UploadIO.new(__dir__ + "/../lib/случайный вариант.pdf", "application/pdf")
+				bot.api.send_document(chat_id:UserChange.chat_id(message),
+                     document: doc
+                     )
+		end
 		module_function(
 			:send_message,
 			:send_photo,
-			:edit_message
+			:edit_message,
+			:send_document
 			)
 	end
 end

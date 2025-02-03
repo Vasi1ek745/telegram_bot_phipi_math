@@ -13,7 +13,7 @@ class Main
                 all_completes_in_procent = Statistics.all_completes_for_user_in_procent(message)
                 all_exercise_size = Exercise.all.size
                 all_completes_for_user = Statistics.all_completes_for_user(message)
-                text = "Привет! \nДля выбора заданий используй /menu\nТвоя полная статистика  /statistics\nСейчас ты готов к ЕГЭ на #{all_completes_in_procent} %\nРешено #{all_completes_for_user} заданий из #{all_exercise_size} \nПопробуй улучшить свой результат!💪"
+                text = "Привет! \nДля выбора заданий используй /menu\nТвоя полная статистика  /statistics\nРешить случайный вариант /variant\nСейчас ты готов к ЕГЭ на #{all_completes_in_procent} %\nРешено #{all_completes_for_user} заданий из #{all_exercise_size} \nПопробуй улучшить свой результат!💪"
                 SendMessage.send_message(bot,message,text)
                 
 # статуc 1 меню заданий
