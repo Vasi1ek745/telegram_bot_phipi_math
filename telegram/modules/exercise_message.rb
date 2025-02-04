@@ -77,13 +77,19 @@ class Main
 					e 
 				end
         end
+        def error(bot, message)
+        	u = User.find_by(user_id: message.from.id)
+        	exercise_id = u.exercise_list.split(";")[u.exercise_number_in_list]
+        	Error.create(exercise_id: exercise_id, user_name: u.user_name, user_id: u.id)
+       	end
 
 		module_function(
 			:photo,
 			:right_answer,
 			:exercise_number_in_list_up,
 			:exercise_list,
-			:check_photo_id
+			:check_photo_id,
+			:error
 			)
 	end
 end

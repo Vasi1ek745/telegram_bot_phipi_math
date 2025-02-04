@@ -26,6 +26,7 @@ class Main
 		              	UserChange.status_zero(message)  
 		              end
     		          ExerciseMessage.exercise_number_in_list_up(message) if message.text == "/skip"
+
     		      else 
     		      	Autorization.send_not_autorization_message(bot,message)
     		      end

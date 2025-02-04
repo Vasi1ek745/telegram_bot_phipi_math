@@ -36,7 +36,7 @@ class Main
               when 3
                 UserChange.tasks_order(message)
                 ExerciseMessage.exercise_list(message)
-                text = "Подготовили для вас список заданий!\nПросто отправьте правильный ответ!\nДля перехода к следующему заданию отправьте команду /skip"
+                text = "Подготовили для вас список заданий!\nПросто отправьте правильный ответ!\nДля перехода к следующему заданию отправьте команду /skip\nЕсли хотите сообщить об ошибке отправьте /error"
                 SendMessage.send_message(bot,message,text)
                 ExerciseMessage.photo(message,bot)
                 UserChange.status_change_up(message)  
@@ -58,8 +58,18 @@ class Main
 
                   ExerciseMessage.exercise_number_in_list_up(message)
                   ExerciseMessage.photo(message,bot)
-                
+                elsif  message.text == "/error"
+                    ExerciseMessage.error(bot, message)
+
+                    ExerciseMessage.exercise_number_in_list_up(message)
+
+                    text = "Спасибо что сообщили о ошибке, постараемся проверить в ближайшее время!"
+                    SendMessage.send_message(bot,message, text)
+                    ExerciseMessage.photo(message,bot)
+
+                  
                 else
+
                   text = "Это не правильный ответ! 😢\nПопробуй еще" 
                   SendMessage.send_message(bot,message,text)
                 end
