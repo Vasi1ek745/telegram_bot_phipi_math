@@ -1,66 +1,66 @@
-# require 'telegram/bot'
-# require File.expand_path('../config/environment', __dir__)
-# require 'pry-byebug'
+require 'telegram/bot'
+require File.expand_path('../config/environment', __dir__)
+require 'pry-byebug'
 
-# token = '6718457521:AAFVJqjop1Z4-sMlBmyakNOOOBhemLFDwdg'
+token = Rails.application.credentials.bot_token
 
 
-# def file_from_dir
-#     name_array = Dir.entries("/home/vasiliy/Изображения")
-#     name_array.delete(".")
-#     name_array.delete("..")
-#     name_array.map! do |screen_name|
+def file_from_dir
+    name_array = Dir.entries("/home/vasiliy/Изображения/Новая папка")
+    name_array.delete(".")
+    name_array.delete("..")
+    name_array.map! do |screen_name|
           
-#           pars =  screen_name.split(";")
-#           number_in_ege = pars[0]
-#           phipi_id = pars[1]
+          pars =  screen_name.split(";")
+          number_in_ege = pars[0]
+          phipi_id = pars[1]
           
-#           right_answer = pars[2].split(".")[0]
-#           screen_name = [number_in_ege, phipi_id, right_answer, screen_name]
-#     end
-#     name_array
-# end
+          right_answer = pars[2].split(".")[0]
+          screen_name = [number_in_ege, phipi_id, right_answer, screen_name]
+    end
+    name_array
+end
 
-# Telegram::Bot::Client.run(token) do |bot|
+Telegram::Bot::Client.run(token) do |bot|
     # binding.pry
 
-    # bot.listen do |message|
-    #       p 'message'
+    bot.listen do |message|
+         
            
           
-      # if message.from.id == 431570366
-      #   files = file_from_dir
-      #   Exercise.last.update(file_id: message.photo[0].file_id) if message.photo
+      if message.from.id == 431570366
+        files = file_from_dir
+        Exercise.last.update(file_id: message.photo[0].file_id) if message.photo
          
-      #     file = files[0]
-      #   while !file.nil? && Exercise.exists?(phipi_id: file[1]) 
-      #     files.shift
-      #     file = files[0]
-      #   end
+          file = files[0]
+        while !file.nil? && Exercise.exists?(phipi_id: file[1]) 
+          files.shift
+          file = files[0]
+        end
         
-      #   if file
-      #     Exercise.create(
-      #                   number_in_ege: file[0],
-      #                   phipi_id: file[1],
-      #                   right_answer: file[2]
-      #                   )
+        if file
+          Exercise.create(
+                        number_in_ege: file[0],
+                        phipi_id: file[1],
+                        right_answer: file[2]
+                        )
               
-              # f = Faraday::UploadIO.new("/home/vasiliy/Изображения/"+file[3], "'image/png'")
+              f = Faraday::UploadIO.new("/home/vasiliy/Изображения/Новая папка/"+file[3], "'image/png'")
 
-      #         bot.api.send_photo(
-      #                   chat_id: message.chat.id,
-      #                   photo: f,
-      #                   )
-      #   else
-      #       bot.api.send_message(
-      #                 text: "Кончились файлы в папке, на текущий момент #{Exercise.all.size} заданий",
-      #                 chat_id: message.chat.id
-      #                             )          
+              bot.api.send_photo(
+                        chat_id: message.chat.id,
+                        photo: f,
+                        )
+        else
+            bot.api.send_message(
+                      text: "Кончились файлы в папке, на текущий момент #{Exercise.all.size} заданий",
+                      chat_id: message.chat.id
+                                  )          
             
-      #   end
-      # end
-  #     end
-  # end
+        end
+      end
+      end
+  end
 
 # Логика!!! :
 

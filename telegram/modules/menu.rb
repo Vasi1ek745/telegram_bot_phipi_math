@@ -23,7 +23,7 @@ class Main
 		              	PdfCreate.pdf_create
 		              	SendMessage.send_document(bot,message)
 		              	PdfCreate.pdf_delete
-
+		              	UserChange.status_zero(message)  
 		              end
     		          ExerciseMessage.exercise_number_in_list_up(message) if message.text == "/skip"
     		      else 
