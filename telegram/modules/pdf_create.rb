@@ -15,6 +15,7 @@ class Main
 		end
 		def select_images_with_number(number)
 			selected_images = []
+
 			file = Dir.glob(File.join(path_to_image, "#{number};*"))
 		
 		end
@@ -51,9 +52,10 @@ class Main
 			# Путь для шрифтов
 			font_path = __dir__ + "/../lib/fonts/ARIAL.TTF"
 			font_path_bold = __dir__ + "/../lib/fonts/ARIALBD.TTF"
-			images = select_images_with_number(numer)
+			images = select_images_with_number(number)
 			# Создаем новый PDF-документ
-			Prawn::Document.generate(__dir__ + "/../lib/Задание #{number}.pdf") do
+
+			Prawn::Document.generate(__dir__ + "/../lib/pdf/Задание #{number}.pdf") do
 
 				font_families.update("Arial" => {
 				normal: font_path,
@@ -66,13 +68,14 @@ class Main
 				# Добавляем изображение в PDF
 				
 				images.each_with_index do |x,i|
+					
 					text "#{i+1}.", style: :bold, inline_format: true
 					# Вставляем изображение с центрированием и ограничением по ширине
 					image x, width: 450, position: :center, hight: 92
 
 					move_down 10
-					start_new_page if i == 3 || i == 7  
 				end
+
 			end
 
 		end
@@ -87,7 +90,9 @@ class Main
 			:pdf_create_variant,
 			:select_images,
 			:path_to_image,
-			:pdf_delete
+			:pdf_delete,
+			:pdf_create_zadanie,
+			:select_images_with_number
 			)
 
 	end

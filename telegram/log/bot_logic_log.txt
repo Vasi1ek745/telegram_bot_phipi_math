@@ -1,4 +1,10 @@
 
  ****************************** 
- 03/27/25  17:11 
- No such file or directory @ apply2files - /home/vasiliy/RailsProgekt/telegram_bot_phipi_math/telegram/modules/../lib/pdf/*
+ 03/27/25  17:45 
+ no implicit conversion of nil into String
+ ****************************** 
+ 03/27/25  17:46 
+ no implicit conversion of nil into String
+ ****************************** 
+ 03/27/25  17:47 
+ no implicit conversion of nil into String

@@ -25,8 +25,9 @@ class Main
 		              	PdfCreate.pdf_delete
 		              	UserChange.status_zero(message)  
 		              end
-		             	if message.text == "/zadanie"
-		              	PdfCreate.pdf_create_variant
+		             	if message.text.split(";")[0] == "/zadanie"
+		             		number = message.text.split(";")[1]
+		               	PdfCreate.pdf_create_zadanie(number)
 		              	SendMessage.send_document(bot,message)
 		              	PdfCreate.pdf_delete
 		              	UserChange.status_zero(message)  
