@@ -24,7 +24,8 @@ class Main
 
 		end
 		def send_document(bot,message)
-				doc = Faraday::UploadIO.new(__dir__ + "/../lib/случайный вариант.pdf", "application/pdf")
+				file_name = Dir.children(__dir__ + "/../lib/pdf/").first
+				doc = Faraday::UploadIO.new(__dir__ + "/../lib/pdf/" + file_name , "application/pdf")
 				bot.api.send_document(chat_id:UserChange.chat_id(message),
                      document: doc
                      )

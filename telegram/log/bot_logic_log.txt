@@ -1,0 +1,4 @@
+
+ ****************************** 
+ 03/27/25  17:11 
+ No such file or directory @ apply2files - /home/vasiliy/RailsProgekt/telegram_bot_phipi_math/telegram/modules/../lib/pdf/*

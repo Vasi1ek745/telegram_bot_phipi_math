@@ -20,7 +20,13 @@ class Main
 		              UserChange.status_one(message) if message.text == "/menu"
 		              UserChange.status_five(message) if message.text == "/statistics"
 		              if message.text == "/variant"
-		              	PdfCreate.pdf_create
+		              	PdfCreate.pdf_create_variant
+		              	SendMessage.send_document(bot,message)
+		              	PdfCreate.pdf_delete
+		              	UserChange.status_zero(message)  
+		              end
+		             	if message.text == "/zadanie"
+		              	PdfCreate.pdf_create_variant
 		              	SendMessage.send_document(bot,message)
 		              	PdfCreate.pdf_delete
 		              	UserChange.status_zero(message)  
